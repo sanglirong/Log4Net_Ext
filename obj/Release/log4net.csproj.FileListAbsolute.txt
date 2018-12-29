@@ -1,0 +1,5 @@
+H:\外部项目\丹宇美\2_源代码\log4net-2.0.8\build\bin\net\4.5\release\log4net.dll
+H:\外部项目\丹宇美\2_源代码\log4net-2.0.8\build\bin\net\4.5\release\log4net.xml
+H:\外部项目\丹宇美\2_源代码\log4net-2.0.8\src\obj\Release\log4net.csprojAssemblyReference.cache
+H:\外部项目\丹宇美\2_源代码\log4net-2.0.8\src\obj\Release\log4net.csproj.CoreCompileInputs.cache
+H:\外部项目\丹宇美\2_源代码\log4net-2.0.8\src\obj\Release\log4net.dll

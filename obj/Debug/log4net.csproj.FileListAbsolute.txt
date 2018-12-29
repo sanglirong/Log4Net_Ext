@@ -1,0 +1,13 @@
+H:\Demo\2018\10\log4net-2.0.8\build\bin\net\4.5\debug\log4net.dll
+H:\Demo\2018\10\log4net-2.0.8\build\bin\net\4.5\debug\log4net.pdb
+H:\Demo\2018\10\log4net-2.0.8\build\bin\net\4.5\debug\log4net.xml
+H:\Demo\2018\10\log4net-2.0.8\src\obj\Debug\log4net.csproj.CoreCompileInputs.cache
+H:\Demo\2018\10\log4net-2.0.8\src\obj\Debug\log4net.dll
+H:\Demo\2018\10\log4net-2.0.8\src\obj\Debug\log4net.pdb
+H:\外部项目\丹宇美\2_源代码\log4net-2.0.8\build\bin\net\4.5\debug\log4net.dll
+H:\外部项目\丹宇美\2_源代码\log4net-2.0.8\build\bin\net\4.5\debug\log4net.pdb
+H:\外部项目\丹宇美\2_源代码\log4net-2.0.8\build\bin\net\4.5\debug\log4net.xml
+H:\外部项目\丹宇美\2_源代码\log4net-2.0.8\src\obj\Debug\log4net.csproj.CoreCompileInputs.cache
+H:\外部项目\丹宇美\2_源代码\log4net-2.0.8\src\obj\Debug\log4net.dll
+H:\外部项目\丹宇美\2_源代码\log4net-2.0.8\src\obj\Debug\log4net.pdb
+H:\外部项目\丹宇美\2_源代码\log4net-2.0.8\src\obj\Debug\log4net.csprojAssemblyReference.cache
